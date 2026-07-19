@@ -1,5 +1,4 @@
 ## Topology
-![Topology](./topology.png)
 
 A single switch (SW0) connects five end devices and one router (R1). R1 provides routing and DHCP for the LAN.
 
